@@ -1,0 +1,44 @@
+/*******************************************************************/
+/* Created: INSERTDATE by Troy Center, troycenter1@gmail.com.      */
+/* INSERTDESCRIPTION                                               */
+/*******************************************************************/
+
+/***************************************************/
+/*               CSS reset settings                */
+/***************************************************/
+
+/*Expect Bootstrap*/
+
+#wrapper {
+    height: 800px;
+    width: 800px;
+    padding: 50px;
+    background-image: linear-gradient(300deg, grey, white);
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/***************************************************/
+/*     MAIN CSS                                    */
+/***************************************************/
+#header {
+    width: 40%;
+    margin: auto;
+}
+h1{
+    font-size: 1em;
+    border: 2px solid black;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+}
+#time {
+    text-align: center;
+    border: 2px solid black;
+    width: 80%;
+    margin: auto;
+}
